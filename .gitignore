@@ -27,5 +27,5 @@ build/Release
 node_modules
 
 .DS_Store
-secrets.js
+secrets.json
 _old/config.php
